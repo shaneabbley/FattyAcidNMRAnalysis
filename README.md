@@ -1,1 +1,2 @@
 # FattyAcidNMRAnalysis
+This group experiment from my senior year biochemistry lab presented us with the challenge of determining the identity of a pair of unknown fatty acid methyl esters based on the spectra we collected in the NMR. We obtained the C13 spectra as well as the H1 spectra. With the help of literature we collaborated to identify what we believed the two molecules to be. This experiment was fairly self-guided, with only the most illogical conclusions being discouraged by our professor.
